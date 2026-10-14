@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbe7bc"/><stop offset="1" stop-color="#f8c6a6"/></linearGradient><linearGradient id="bag" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7b35"/><stop offset="1" stop-color="#f04438"/></linearGradient></defs>
+<rect width="1440" height="520" rx="34" fill="url(#bg)"/><circle cx="1110" cy="210" r="220" fill="#fff7e9" opacity=".65"/><circle cx="1250" cy="80" r="110" fill="#ffd8ac" opacity=".8"/>
+<g transform="translate(860 55)"><ellipse cx="220" cy="380" rx="235" ry="32" fill="#a95a3c" opacity=".15"/><path d="M60 135 L375 135 L345 420 L92 420 Z" fill="url(#bag)"/><path d="M125 140 C115 45 300 45 290 140" fill="none" stroke="#f04438" stroke-width="24" stroke-linecap="round"/><text x="112" y="270" fill="#fff" font-size="38" font-family="Arial" font-weight="800">quick</text><text x="112" y="315" fill="#fff" font-size="38" font-family="Arial" font-weight="800">basket.</text><g font-size="95"><text x="-15" y="160">🥬</text><text x="245" y="135">🥛</text><text x="20" y="350">🍌</text><text x="300" y="350">🍅</text></g></g>
+<text x="80" y="95" fill="#9c3d20" font-family="Arial" font-size="18" font-weight="700" letter-spacing="4">THE QUICKBASKET DAILY DROP</text>
+<text x="76" y="190" fill="#172a1d" font-family="Arial" font-size="66" font-weight="800">Your everyday</text><text x="76" y="263" fill="#172a1d" font-family="Arial" font-size="66" font-weight="800">basket, sorted.</text>
+<text x="82" y="315" fill="#5e574b" font-family="Arial" font-size="23">Fresh finds. Great prices. At your door in 10 minutes.</text>
+<rect x="80" y="355" width="210" height="58" rx="13" fill="#172a1d"/><text x="113" y="392" fill="#fff" font-family="Arial" font-size="19" font-weight="700">Shop groceries →</text>
+<rect x="305" y="355" width="150" height="58" rx="13" fill="#fff8eb" stroke="#e8bca1"/><text x="331" y="392" fill="#713c2b" font-family="Arial" font-size="17" font-weight="700">₹1 delivery</text>
+</svg>
